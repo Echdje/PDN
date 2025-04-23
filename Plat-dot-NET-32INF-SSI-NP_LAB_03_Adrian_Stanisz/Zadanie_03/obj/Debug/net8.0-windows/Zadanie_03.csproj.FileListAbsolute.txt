@@ -1,0 +1,16 @@
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\bin\Debug\net8.0-windows\Zadanie_03.exe
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\bin\Debug\net8.0-windows\Zadanie_03.deps.json
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\bin\Debug\net8.0-windows\Zadanie_03.runtimeconfig.json
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\bin\Debug\net8.0-windows\Zadanie_03.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\bin\Debug\net8.0-windows\Zadanie_03.pdb
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.Form1.resources
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\refint\Zadanie_03.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.pdb
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\Zadanie_03.genruntimeconfig.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_03\obj\Debug\net8.0-windows\ref\Zadanie_03.dll

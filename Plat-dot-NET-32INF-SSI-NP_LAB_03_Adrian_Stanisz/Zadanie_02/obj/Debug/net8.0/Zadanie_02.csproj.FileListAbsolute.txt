@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\bin\Debug\net8.0\Zadanie_02.exe
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\bin\Debug\net8.0\Zadanie_02.deps.json
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\bin\Debug\net8.0\Zadanie_02.runtimeconfig.json
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\bin\Debug\net8.0\Zadanie_02.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\bin\Debug\net8.0\Zadanie_02.pdb
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\refint\Zadanie_02.dll
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.pdb
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\Zadanie_02.genruntimeconfig.cache
+C:\Users\Adrian\source\repos\Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz\Zadanie_02\obj\Debug\net8.0\ref\Zadanie_02.dll

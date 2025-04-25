@@ -1,0 +1,15 @@
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/bin/Debug/net8.0/Zadanie_04
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/bin/Debug/net8.0/Zadanie_04.deps.json
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/bin/Debug/net8.0/Zadanie_04.runtimeconfig.json
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/bin/Debug/net8.0/Zadanie_04.dll
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/bin/Debug/net8.0/Zadanie_04.pdb
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.AssemblyInfoInputs.cache
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.AssemblyInfo.cs
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.csproj.CoreCompileInputs.cache
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.sourcelink.json
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.dll
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/refint/Zadanie_04.dll
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.pdb
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/Zadanie_04.genruntimeconfig.cache
+/Users/adrianstanisz/RiderProjects/PDN/Plat-dot-NET-32INF-SSI-NP_LAB_03_Adrian_Stanisz/Zadanie_04/obj/Debug/net8.0/ref/Zadanie_04.dll

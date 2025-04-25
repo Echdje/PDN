@@ -1,5 +1,4 @@
-﻿using System;
-using System.Net;
+﻿using System.Net;
 using System.Net.Mail;
 namespace Zadanie_06;
 
@@ -7,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string sender = "sender@gmail.com";
+        string sender = "sender@mail.com";
         string receiver = "receiver@gmail.com";
         string topic = "topic";
         string message = "message";
@@ -26,7 +25,7 @@ class Program
         SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
         smtp.EnableSsl = true;
         
-        smtp.Credentials = new NetworkCredential("mymail@email.com", "password");
+        smtp.Credentials = new NetworkCredential("myemail@email.com", "mypassword");
 
 
         try

@@ -20,6 +20,7 @@
           "net8.0-windows"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/adrianstanisz/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
